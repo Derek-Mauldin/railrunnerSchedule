@@ -1,0 +1,12 @@
+
+<div style="width: 300px; margin-bottom: 20px;">
+	<h3>Select a single city</h3>
+	<ng2-select [allow-clear]="true"
+					[items]="items"
+					(selected)="selected($event)"
+					[placeholder]="'No city selected'">
+
+	</ng2-select>
+	<pre>{{value.text}}</pre>
+
+</div>

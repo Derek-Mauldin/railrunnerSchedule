@@ -1,18 +1,23 @@
-import {Injectable} from "angular2/core";
-import {Http, Response} from "angular2/http";
+import {Injectable} from "@angular/core";
+import {Http, Response} from "@angular/http";
 import {Observable} from "rxjs/Observable";
 import {ScheduleData} from "./schedule-data";
+import 'rxjs/add/operator/map';
+import 'rxjs/add/operator/toPromise';
+import 'rxjs/add/operator/catch';
+
 
 @Injectable()
 export class GetSchedule {
 	constructor(private http: Http) {}
 
-	private railSchedule = "https://bootcamp-coders.cnm.edu/~mball15/angular-knights/apps/railrunnerschedule.json/";
+	private railSchedule = "../railrunnerschedule.json";
 
 	getSchedule() : Observable<ScheduleData[]> {
 		return(this.http.get(this.railSchedule)
 			.map(this.extractData)
 			.catch(this.handleError));
+
 	}
 
 	private extractData(response: Response) {
