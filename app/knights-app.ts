@@ -2,6 +2,6 @@ import { Component } from '@angular/core';
 
 @Component({
 	selector: 'knights-app',
-	template: `<h1>My First Angular 2 App</h1>`
+	templateUrl: 'app/template/knights-app.html'
 })
-export class KnightsComponent { }
+export class KnightsApp { }
