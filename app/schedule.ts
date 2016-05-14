@@ -11,5 +11,5 @@ import {ScheduleRow} from "./schedule-row";
 })
 
 export class Schedule {
-	scheduleRow: ScheduleRow[];
+	scheduleRows: ScheduleRow[];
 }
