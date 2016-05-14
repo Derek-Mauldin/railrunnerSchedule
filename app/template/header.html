@@ -1,0 +1,36 @@
+<h2>Station Locations</h2>
+<div class="row">
+	<sebm-google-map
+		[latitude]="stationCenter.lat"
+		[longitude]="stationCenter.lng"
+		[zoom]="zoom">
+		<sebm-google-map-marker
+			*ngFor="let routes of locations list"
+			[latitude]="route.lat"
+			[longitude]="route.long"
+			[label]="route.name">
+		</sebm-google-map-marker>
+	</sebm-google-map>
+</div>
+<div class="row">
+	<table class="table table-bordered table-responsive table-striped">
+		<tr>
+			<th>Id</th>
+			<th>Name</th>
+			<th>Address</th>
+			<th>ZIP</th>
+			<th>Description</th>
+			<th>Latitude</th>
+			<th>Longitude</th>
+		</tr>
+		<tr *ngFor="let Routes of station locations">
+			<td>{{ voting.id }}</td>
+			<td>{{ voting.name }}</td>
+			<td>{{ voting.address }}</td>
+			<td>{{ voting.zip }}</td>
+			<td>{{ voting.description }}</td>
+			<td>{{ voting.lat }}</td>
+			<td>{{ voting.long }}</td>
+		</tr>
+	</table>
+</div>
