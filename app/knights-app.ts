@@ -4,8 +4,6 @@ import { HeaderComponent } from './knights-header';
 import { GetSchedule } from './get-schedule';
 import { ScheduleData } from './schedule-data';
 import { HTTP_PROVIDERS } from '@angular/http';
-import { Observer } from 'rxjs/Observer';
-import "rxjs/Rx";
 
 
 
@@ -18,21 +16,18 @@ import "rxjs/Rx";
 export class KnightsApp implements OnInit {
 	constructor(private getSchedule: GetSchedule) { }
 
-	scheduleInfo : ScheduleData[];
+	sched: ScheduleData[];
+	errorMessage: string;
 	
 	ngOnInit() {
 		this.getData();
-		this.displayStuff();
 	}
 	
 	getData() {
 
-		this.getSchedule.getSchedule().subscribe( sch => (this.scheduleInfo = sch));
-
+		this.getSchedule.getSchedule().subscribe( sch => { this.sched = sch; },
+			error => this.errorMessage = error
+		);
 	}
 	
-	displayStuff() {
-		console.log(this.scheduleInfo[20].station);
-	}
-
 }
