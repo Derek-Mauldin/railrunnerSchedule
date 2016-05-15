@@ -1,7 +1,7 @@
-import { Component, OnInit } from '@angular/core';
-import { ScheduleData} from './schedule-data';
-import { StationDropdown } from './station-dropdown';
-import { ScheduleRow} from './schedule-row';
+import { Component } from '@angular/core';
+import { ScheduleData } from './schedule-data';
+//import { StationDropdown } from './station-dropdown';
+import { ScheduleRow } from './schedule-row';
 
 
 
@@ -9,7 +9,7 @@ import { ScheduleRow} from './schedule-row';
 @Component({
 	selector: 'schedule',
 	templateUrl: 'app/template/schedule.html',
-	directives: [ScheduleRow, StationDropdown],
+	directives: [ScheduleRow],
 	inputs: ['schData', 'selectedStation'],
 	outputs: ['stationArray']
 })

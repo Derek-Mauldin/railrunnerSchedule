@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { ScheduleData} from './schedule-data';
-import { StationDropdown } from './station-dropdown';
+
 
 
 
@@ -8,7 +8,6 @@ import { StationDropdown } from './station-dropdown';
 @Component({
 	selector: 'schedule-row',
 	templateUrl: 'app/template/schedule-row.html',
-	directives: [StationDropdown],
 	inputs: ['stationArray']
 })
 
