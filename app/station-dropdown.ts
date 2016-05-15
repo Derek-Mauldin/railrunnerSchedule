@@ -1,10 +1,11 @@
 import { Component, EventEmitter } from '@angular/core';
 import { NgForm }    from '@angular/common';
 
+
 @Component({
 	selector: 'station-dropdown',
 	templateUrl: 'app/template/station-dropdown.html',
-	outputs: ['stationSelected']
+	outputs: ['stationSelected'],
 })
 
 export class StationDropdown {
