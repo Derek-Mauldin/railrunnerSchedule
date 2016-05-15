@@ -1,24 +1,4 @@
-<h2>Weekday</h2>
-<div class="weekday">
-	<table>
-		<tr>
-			<schedule-row *ngFor="let times of time"></schedule-row>
-		</tr>
-	</table>
+<div>
+	<schedule-row [stationArray]="stationArray"></schedule-row>
 </div>
-<h2>Saturday</h2>
-<div class="saturday">
-	<table>
-		<tr>
-			<schedule-row *ngFor="let times of time"></schedule-row>
-		</tr>
-	</table>
-</div>
-<h2>Sunday</h2>
-<div class="sunday">
-	<table>
-		<tr>
-			<schedule-row *ngFor="let times of time"></schedule-row>
-		</tr>
-	</table>
-</div>
+

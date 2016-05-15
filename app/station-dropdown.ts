@@ -1,30 +1,33 @@
 import { Component, EventEmitter } from '@angular/core';
 import { NgForm }    from '@angular/common';
+import { Schedule } from './schedule';
+import { ScheduleData } from  './schedule-data';
 
 
 @Component({
 	selector: 'station-dropdown',
 	templateUrl: 'app/template/station-dropdown.html',
-	outputs: ['stationSelected'],
+	inputs: ['sch'],
+	outputs: ['stationSelected', 'sch'],
+	directives: [Schedule, ScheduleData]
 })
 
 export class StationDropdown {
 
-	stationSelected : EventEmitter<string>;
+	stationSelected : string;
+	
+	sch : ScheduleData[];
 
 	stations: Array<string> = [ 'Belen', 'Los Lunas', 'Isleta Pueblo', 'Bernalillo County',
-		'Downtown ABQ', 'Montano', 'Los Ranchos/Journal Center', 'Sandia Pueblo', 'Downtown Bernalillo',
-		'Sandoval/US 550', 'Kewa', 'SF County/NM 599', 'South Capitol', 'Santa Fe Depot' ];
+		'Downtown ABQ', 'Montaño', 'Los Ranchos / JC', 'Sandia Pueblo', 'Downtown Bernalillo',
+		'Sandoval / US550', 'Kewa', 'SF County / NM 599', 'South Capitol', 'Santa Fe Depot' ];
 
 
-
-	constructor() {
-		this.stationSelected = new EventEmitter<string>();
-	}
 
 	selected(station) {
-		console.log(station.value);
-		this.stationSelected.emit(station);
+
+		this.stationSelected = station.value;
+
 	}
 
 }
