@@ -5,39 +5,41 @@ import {ScheduleData} from "./schedule-data";
 import 'rxjs/add/operator/map';
 import 'rxjs/add/operator/toPromise';
 import 'rxjs/add/operator/catch';
+import 'railrunnerschedule.json';
+import "rxjs/Rx";
 
 
 @Injectable()
 export class GetSchedule {
 	constructor(private http: Http) {}
 
-	private railSchedule = "../railrunnerschedule.json";
+	private railSchedule = "./railrunnerschedule.json";
 
-	getSchedule() : Observable<ScheduleData[]> {
-		return(this.http.get(this.railSchedule)
-			.map(this.extractData)
-			.catch(this.handleError));
+	getSchedule() :  Observable<ScheduleData[]>   {
+
+
+		return this.http.get('../railrunnerschedule.json').map(this.extractData);
 
 	}
 
-	private extractData(response: Response) {
-		if(response.status < 200 || response.status >= 300) {
-			throw(new Error("Bad response status: " + response.status));
-		}
+extractData (response: Response) {
 
-		let reply = [];
-		let body = response.json();
-		body.features.forEach(function(item) {
-			let attributes = item.attributes;
-			let schedule = {id: attributes.FIELD1, time: attributes.FIELD2, station: attributes.FIELD4, stop: attributes.FIELD5};
-			reply.push(schedule);
-		});
-		return(reply);
+	if(response.status < 200 || response.status >= 300) {
+		throw(new Error("Bad response status: " + response.status));
 	}
+
+	let reply = [];
+	let body = response.json();
+	body.forEach(function(item) {
+		let sch = {id: item.FIELD1, time: item.FIELD2, station: item.FIELD4, stop: item.FIELD6};
+		reply.push(sch);
+	});
+	return(reply);
+
+}
 
 	private handleError(error: any) {
 		let message = error.message;
 		console.log(message);
-		return(Observable.throw(message));
 	}
 }

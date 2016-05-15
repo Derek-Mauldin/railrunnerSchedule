@@ -1,13 +1,4 @@
-[
- {
-   "FIELD1":"trip_id",
-   "FIELD2":"departure_time",
-   "FIELD3":"stop_id",
-   "FIELD4":"station_name",
-   "FIELD5":"stop_sequence",
-   "FIELD6":"shape_dist_traveled"
- },
- {
+[{
    "FIELD1":"RRE_wd_nb_102",
    "FIELD2":"05:39:00 AM",
    "FIELD3":"belen",
@@ -3422,5 +3413,4 @@
    "FIELD4":"Belen",
    "FIELD5":"14",
    "FIELD6":"155.224"
- }
-]
+ }]

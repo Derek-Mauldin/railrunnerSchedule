@@ -19,11 +19,11 @@ export class StationDropdown {
 
 
 	constructor() {
-		this.stationSelected = new EventEmitter();
+		this.stationSelected = new EventEmitter<string>();
 	}
 
 	selected(station) {
-		console.log(station.value)
+		console.log(station.value);
 		this.stationSelected.emit(station);
 	}
 
