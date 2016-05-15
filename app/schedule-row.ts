@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
 import { ScheduleData} from './schedule-data';
 import { StationDropdown } from './station-dropdown';
 
@@ -8,11 +8,11 @@ import { StationDropdown } from './station-dropdown';
 @Component({
 	selector: 'schedule-row',
 	templateUrl: 'app/template/schedule-row.html',
-	directives: [ScheduleData, StationDropdown],
+	directives: [StationDropdown],
 	inputs: ['stationArray']
 })
 
-export class Schedule {
+export class ScheduleRow {
 
 	/**
 	 * @input schedule data from parent compenent

@@ -8,8 +8,8 @@ import { ScheduleData } from  './schedule-data';
 	selector: 'station-dropdown',
 	templateUrl: 'app/template/station-dropdown.html',
 	inputs: ['sch'],
-	outputs: ['stationSelected', 'sch'],
-	directives: [Schedule, ScheduleData]
+	outputs: ['stationSelected'],
+	directives: [Schedule]
 })
 
 export class StationDropdown {

@@ -11,7 +11,8 @@ import { HTTP_PROVIDERS } from '@angular/http';
 	selector: 'knights-app',
 	templateUrl: 'app/template/knights-app.html',
 	directives: [StationDropdown, HeaderComponent],
-	providers: [HTTP_PROVIDERS, GetSchedule]
+	providers: [HTTP_PROVIDERS, GetSchedule],
+	outputs: ['sched']
 })
 export class KnightsApp implements OnInit {
 	constructor(private getSchedule: GetSchedule) { }
@@ -25,9 +26,12 @@ export class KnightsApp implements OnInit {
 	
 	getData() {
 
-		this.getSchedule.getSchedule().subscribe( sch => { this.sched = sch; },
+		this.getSchedule.getSchedule().subscribe( sch => {
+			this.sched = sch;
+			console.log(this.sched[1].id)
+		},
 			error => this.errorMessage = error
 		);
 	}
-	
+
 }

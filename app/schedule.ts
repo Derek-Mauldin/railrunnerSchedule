@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ScheduleData} from './schedule-data';
 import { StationDropdown } from './station-dropdown';
+import { ScheduleRow} from './schedule-row';
 
 
 
@@ -8,8 +9,8 @@ import { StationDropdown } from './station-dropdown';
 @Component({
 	selector: 'schedule',
 	templateUrl: 'app/template/schedule.html',
-	directives: [ScheduleRow, ScheduleData, StationDropdown],
-	inputs: ['schData'],
+	directives: [ScheduleRow, StationDropdown],
+	inputs: ['schData', 'selectedStation'],
 	outputs: ['stationArray']
 })
 
@@ -33,11 +34,12 @@ export class Schedule {
 	constructor() {
 
 		this.schData.forEach(function(item) {
-
 			if(item.station === this.selectedStation) {
 				this.stationArray.push(item);
 			}
-		})
+		});
+
+		console.log(this.schData)
 	}
 
 
