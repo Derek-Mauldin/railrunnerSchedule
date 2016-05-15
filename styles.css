@@ -1,10 +1,11 @@
 .jumbotron {
 	text-align: center;
-	color: white;
 	background-image: url("./app/media/Rail-Runner-30.jpg");
 }
 	
-
+.rrr {
+	color: #ffdb94;
+}
 	
 
 
