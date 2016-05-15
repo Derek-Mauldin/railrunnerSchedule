@@ -1,6 +1,8 @@
 .jumbotron {
 	text-align: center;
-	background-image: url("./app/media/Belen_railrunner_station.jpg");
+	color: white;
+	background-image: url("./app/media/locomotive.jpg");
+
 }
 	
 
