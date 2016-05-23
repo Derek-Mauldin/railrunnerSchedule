@@ -1,0 +1,14 @@
+<table>
+	<tr>
+		<th>Station ID</th>
+		<th>Station Name</th>
+		<th>Departure Time</th>
+	</tr>
+
+	<tr *ngFor="let item of wdArray">
+		<td>{{ item.id }}</td>
+		<td>{{ item.station }}</td>
+		<td>{{ item.time }}</td>
+	</tr>
+
+</table>

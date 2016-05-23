@@ -1,0 +1,17 @@
+<div class="container">
+	<h1>Select Station</h1>
+	<form>
+
+		<div class="form-group">
+			<label for="station">Stations</label>
+			<select id="station" name ="station" class="form-control" required ngControl="stations" #station>
+				<option *ngFor="let s of stations" [value]="s">{{s}}</option>
+			</select>
+		</div>
+		<button (click)="selected(station)" type="submit" class="btn btn-default">Submit</button>
+
+	</form>
+
+</div>
+
+<schedule-row [selected]="schedule-row"></schedule-row>

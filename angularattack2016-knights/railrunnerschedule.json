@@ -1,0 +1,3416 @@
+[{
+   "FIELD1":"RRE_wd_nb_102",
+   "FIELD2":"05:39:00 AM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RRE_wd_nb_102",
+   "FIELD2":"05:49:00 AM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"2",
+   "FIELD6":"15.385"
+ },
+ {
+   "FIELD1":"RRE_wd_nb_102",
+   "FIELD2":"06:02:00 AM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"3",
+   "FIELD6":"33.079"
+ },
+ {
+   "FIELD1":"RRE_wd_nb_102",
+   "FIELD2":"06:10:00 AM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"4",
+   "FIELD6":"42.493"
+ },
+ {
+   "FIELD1":"RRE_wd_nb_102",
+   "FIELD2":"06:22:00 AM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"5",
+   "FIELD6":"48.463"
+ },
+ {
+   "FIELD1":"RRE_wd_nb_102",
+   "FIELD2":"06:34:00 AM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"6",
+   "FIELD6":"59.185"
+ },
+ {
+   "FIELD1":"RRE_wd_nb_102",
+   "FIELD2":"06:46:00 AM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"7",
+   "FIELD6":"76.339"
+ },
+ {
+   "FIELD1":"RRE_wd_nb_102",
+   "FIELD2":"07:05:00 AM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"8",
+   "FIELD6":"107.73"
+ },
+ {
+   "FIELD1":"RRE_wd_nb_102",
+   "FIELD2":"07:24:00 AM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"9",
+   "FIELD6":"137.938"
+ },
+ {
+   "FIELD1":"RRE_wd_nb_102",
+   "FIELD2":"07:40:00 AM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"10",
+   "FIELD6":"153.278"
+ },
+ {
+   "FIELD1":"RRE_wd_nb_102",
+   "FIELD2":"07:45:00 AM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"11",
+   "FIELD6":"154.919"
+ },
+ {
+   "FIELD1":"RRE_wd_sb_101",
+   "FIELD2":"05:04:00 PM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RRE_wd_sb_101",
+   "FIELD2":"05:09:00 PM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"2",
+   "FIELD6":"1.65"
+ },
+ {
+   "FIELD1":"RRE_wd_sb_101",
+   "FIELD2":"05:26:00 PM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"3",
+   "FIELD6":"17.05"
+ },
+ {
+   "FIELD1":"RRE_wd_sb_101",
+   "FIELD2":"06:02:00 PM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"4",
+   "FIELD6":"78.908"
+ },
+ {
+   "FIELD1":"RRE_wd_sb_101",
+   "FIELD2":"06:14:00 PM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"5",
+   "FIELD6":"96.063"
+ },
+ {
+   "FIELD1":"RRE_wd_sb_101",
+   "FIELD2":"06:25:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"6",
+   "FIELD6":"106.763"
+ },
+ {
+   "FIELD1":"RR_wd_nb_502",
+   "FIELD2":"04:32:00 AM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"1",
+   "FIELD6":"48.463"
+ },
+ {
+   "FIELD1":"RR_wd_nb_502",
+   "FIELD2":"04:41:00 AM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"2",
+   "FIELD6":"54.572"
+ },
+ {
+   "FIELD1":"RR_wd_nb_502",
+   "FIELD2":"04:47:00 AM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"3",
+   "FIELD6":"59.185"
+ },
+ {
+   "FIELD1":"RR_wd_nb_502",
+   "FIELD2":"04:52:00 AM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"4",
+   "FIELD6":"63.374"
+ },
+ {
+   "FIELD1":"RR_wd_nb_502",
+   "FIELD2":"05:01:00 AM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"5",
+   "FIELD6":"74.755"
+ },
+ {
+   "FIELD1":"RR_wd_nb_502",
+   "FIELD2":"05:05:00 AM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"6",
+   "FIELD6":"76.339"
+ },
+ {
+   "FIELD1":"RR_wd_nb_502",
+   "FIELD2":"05:25:00 AM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"7",
+   "FIELD6":"107.73"
+ },
+ {
+   "FIELD1":"RR_wd_nb_502",
+   "FIELD2":"05:48:00 AM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"8",
+   "FIELD6":"137.938"
+ },
+ {
+   "FIELD1":"RR_wd_nb_502",
+   "FIELD2":"06:08:00 AM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"9",
+   "FIELD6":"153.278"
+ },
+ {
+   "FIELD1":"RR_wd_nb_502",
+   "FIELD2":"06:13:00 AM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"10",
+   "FIELD6":"154.919"
+ },
+ {
+   "FIELD1":"RR_wd_nb_504",
+   "FIELD2":"05:02:00 AM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"1",
+   "FIELD6":"48.463"
+ },
+ {
+   "FIELD1":"RR_wd_nb_504",
+   "FIELD2":"05:11:00 AM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"2",
+   "FIELD6":"54.572"
+ },
+ {
+   "FIELD1":"RR_wd_nb_504",
+   "FIELD2":"05:17:00 AM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"3",
+   "FIELD6":"59.185"
+ },
+ {
+   "FIELD1":"RR_wd_nb_504",
+   "FIELD2":"05:22:00 AM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"4",
+   "FIELD6":"63.374"
+ },
+ {
+   "FIELD1":"RR_wd_nb_504",
+   "FIELD2":"05:31:00 AM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"5",
+   "FIELD6":"74.755"
+ },
+ {
+   "FIELD1":"RR_wd_nb_504",
+   "FIELD2":"05:35:00 AM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"6",
+   "FIELD6":"76.339"
+ },
+ {
+   "FIELD1":"RR_wd_nb_504",
+   "FIELD2":"05:55:00 AM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"7",
+   "FIELD6":"107.73"
+ },
+ {
+   "FIELD1":"RR_wd_nb_504",
+   "FIELD2":"06:18:00 AM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"8",
+   "FIELD6":"137.938"
+ },
+ {
+   "FIELD1":"RR_wd_nb_504",
+   "FIELD2":"06:38:00 AM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"9",
+   "FIELD6":"153.278"
+ },
+ {
+   "FIELD1":"RR_wd_nb_504",
+   "FIELD2":"06:43:00 AM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"10",
+   "FIELD6":"154.919"
+ },
+ {
+   "FIELD1":"RR_wd_nb_506",
+   "FIELD2":"06:35:00 AM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_wd_nb_506",
+   "FIELD2":"06:46:00 AM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"2",
+   "FIELD6":"15.385"
+ },
+ {
+   "FIELD1":"RR_wd_nb_506",
+   "FIELD2":"06:59:00 AM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"3",
+   "FIELD6":"33.079"
+ },
+ {
+   "FIELD1":"RR_wd_nb_506",
+   "FIELD2":"07:06:00 AM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"4",
+   "FIELD6":"42.493"
+ },
+ {
+   "FIELD1":"RR_wd_nb_506",
+   "FIELD2":"07:19:00 AM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"5",
+   "FIELD6":"48.463"
+ },
+ {
+   "FIELD1":"RR_wd_nb_506",
+   "FIELD2":"07:29:00 AM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"6",
+   "FIELD6":"54.572"
+ },
+ {
+   "FIELD1":"RR_wd_nb_506",
+   "FIELD2":"07:36:00 AM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"7",
+   "FIELD6":"59.185"
+ },
+ {
+   "FIELD1":"RR_wd_nb_506",
+   "FIELD2":"07:42:00 AM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"8",
+   "FIELD6":"63.374"
+ },
+ {
+   "FIELD1":"RR_wd_nb_506",
+   "FIELD2":"07:52:00 AM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"9",
+   "FIELD6":"74.755"
+ },
+ {
+   "FIELD1":"RR_wd_nb_506",
+   "FIELD2":"07:58:00 AM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"10",
+   "FIELD6":"76.339"
+ },
+ {
+   "FIELD1":"RR_wd_nb_506",
+   "FIELD2":"08:18:00 AM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"11",
+   "FIELD6":"107.73"
+ },
+ {
+   "FIELD1":"RR_wd_nb_506",
+   "FIELD2":"08:39:00 AM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"12",
+   "FIELD6":"137.938"
+ },
+ {
+   "FIELD1":"RR_wd_nb_506",
+   "FIELD2":"08:54:00 AM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"13",
+   "FIELD6":"153.278"
+ },
+ {
+   "FIELD1":"RR_wd_nb_506",
+   "FIELD2":"08:59:00 AM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"14",
+   "FIELD6":"154.919"
+ },
+ {
+   "FIELD1":"RR_wd_nb_508",
+   "FIELD2":"08:04:00 AM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_wd_nb_508",
+   "FIELD2":"08:15:00 AM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"2",
+   "FIELD6":"15.385"
+ },
+ {
+   "FIELD1":"RR_wd_nb_508",
+   "FIELD2":"08:27:00 AM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"3",
+   "FIELD6":"33.079"
+ },
+ {
+   "FIELD1":"RR_wd_nb_508",
+   "FIELD2":"08:35:00 AM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"4",
+   "FIELD6":"42.493"
+ },
+ {
+   "FIELD1":"RR_wd_nb_508",
+   "FIELD2":"08:42:00 AM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"5",
+   "FIELD6":"48.463"
+ },
+ {
+   "FIELD1":"RR_wd_nb_510",
+   "FIELD2":"09:35:00 AM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"1",
+   "FIELD6":"48.463"
+ },
+ {
+   "FIELD1":"RR_wd_nb_510",
+   "FIELD2":"09:44:00 AM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"2",
+   "FIELD6":"54.572"
+ },
+ {
+   "FIELD1":"RR_wd_nb_510",
+   "FIELD2":"09:50:00 AM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"3",
+   "FIELD6":"59.185"
+ },
+ {
+   "FIELD1":"RR_wd_nb_510",
+   "FIELD2":"09:55:00 AM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"4",
+   "FIELD6":"63.374"
+ },
+ {
+   "FIELD1":"RR_wd_nb_510",
+   "FIELD2":"10:03:00 AM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"5",
+   "FIELD6":"74.755"
+ },
+ {
+   "FIELD1":"RR_wd_nb_510",
+   "FIELD2":"10:08:00 AM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"6",
+   "FIELD6":"76.339"
+ },
+ {
+   "FIELD1":"RR_wd_nb_510",
+   "FIELD2":"10:28:00 AM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"7",
+   "FIELD6":"107.73"
+ },
+ {
+   "FIELD1":"RR_wd_nb_510",
+   "FIELD2":"10:51:00 AM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"8",
+   "FIELD6":"137.938"
+ },
+ {
+   "FIELD1":"RR_wd_nb_510",
+   "FIELD2":"11:11:00 AM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"9",
+   "FIELD6":"153.278"
+ },
+ {
+   "FIELD1":"RR_wd_nb_510",
+   "FIELD2":"11:16:00 AM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"10",
+   "FIELD6":"154.919"
+ },
+ {
+   "FIELD1":"RR_wd_nb_512",
+   "FIELD2":"03:40:00 PM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_wd_nb_512",
+   "FIELD2":"03:51:00 PM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"2",
+   "FIELD6":"15.385"
+ },
+ {
+   "FIELD1":"RR_wd_nb_512",
+   "FIELD2":"04:04:00 PM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"3",
+   "FIELD6":"33.079"
+ },
+ {
+   "FIELD1":"RR_wd_nb_512",
+   "FIELD2":"04:11:00 PM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"4",
+   "FIELD6":"42.493"
+ },
+ {
+   "FIELD1":"RR_wd_nb_512",
+   "FIELD2":"04:26:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"5",
+   "FIELD6":"48.463"
+ },
+ {
+   "FIELD1":"RR_wd_nb_512",
+   "FIELD2":"04:35:00 PM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"6",
+   "FIELD6":"54.572"
+ },
+ {
+   "FIELD1":"RR_wd_nb_512",
+   "FIELD2":"04:41:00 PM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"7",
+   "FIELD6":"59.185"
+ },
+ {
+   "FIELD1":"RR_wd_nb_512",
+   "FIELD2":"04:46:00 PM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"8",
+   "FIELD6":"63.374"
+ },
+ {
+   "FIELD1":"RR_wd_nb_512",
+   "FIELD2":"04:54:00 PM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"9",
+   "FIELD6":"74.755"
+ },
+ {
+   "FIELD1":"RR_wd_nb_512",
+   "FIELD2":"04:59:00 PM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"10",
+   "FIELD6":"76.339"
+ },
+ {
+   "FIELD1":"RR_wd_nb_512",
+   "FIELD2":"05:19:00 PM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"11",
+   "FIELD6":"107.73"
+ },
+ {
+   "FIELD1":"RR_wd_nb_512",
+   "FIELD2":"05:43:00 PM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"12",
+   "FIELD6":"137.938"
+ },
+ {
+   "FIELD1":"RR_wd_nb_512",
+   "FIELD2":"05:58:00 PM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"13",
+   "FIELD6":"153.278"
+ },
+ {
+   "FIELD1":"RR_wd_nb_512",
+   "FIELD2":"06:03:00 PM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"14",
+   "FIELD6":"154.919"
+ },
+ {
+   "FIELD1":"RR_wd_nb_514",
+   "FIELD2":"05:34:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"1",
+   "FIELD6":"48.463"
+ },
+ {
+   "FIELD1":"RR_wd_nb_514",
+   "FIELD2":"05:43:00 PM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"2",
+   "FIELD6":"54.572"
+ },
+ {
+   "FIELD1":"RR_wd_nb_514",
+   "FIELD2":"05:49:00 PM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"3",
+   "FIELD6":"59.185"
+ },
+ {
+   "FIELD1":"RR_wd_nb_514",
+   "FIELD2":"05:54:00 PM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"4",
+   "FIELD6":"63.374"
+ },
+ {
+   "FIELD1":"RR_wd_nb_514",
+   "FIELD2":"06:07:00 PM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"5",
+   "FIELD6":"74.755"
+ },
+ {
+   "FIELD1":"RR_wd_nb_514",
+   "FIELD2":"06:12:00 PM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"6",
+   "FIELD6":"76.339"
+ },
+ {
+   "FIELD1":"RR_wd_nb_514",
+   "FIELD2":"06:34:00 PM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"7",
+   "FIELD6":"107.73"
+ },
+ {
+   "FIELD1":"RR_wd_nb_514",
+   "FIELD2":"06:57:00 PM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"8",
+   "FIELD6":"137.938"
+ },
+ {
+   "FIELD1":"RR_wd_nb_514",
+   "FIELD2":"07:17:00 PM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"9",
+   "FIELD6":"153.278"
+ },
+ {
+   "FIELD1":"RR_wd_nb_514",
+   "FIELD2":"07:22:00 PM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"10",
+   "FIELD6":"154.919"
+ },
+ {
+   "FIELD1":"RR_wd_nb_516",
+   "FIELD2":"05:51:00 PM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_wd_nb_516",
+   "FIELD2":"06:01:00 PM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"2",
+   "FIELD6":"15.385"
+ },
+ {
+   "FIELD1":"RR_wd_nb_516",
+   "FIELD2":"06:16:00 PM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"3",
+   "FIELD6":"33.079"
+ },
+ {
+   "FIELD1":"RR_wd_nb_516",
+   "FIELD2":"06:29:00 PM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"4",
+   "FIELD6":"42.493"
+ },
+ {
+   "FIELD1":"RR_wd_nb_516",
+   "FIELD2":"06:48:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"5",
+   "FIELD6":"48.463"
+ },
+ {
+   "FIELD1":"RR_wd_nb_516",
+   "FIELD2":"06:58:00 PM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"6",
+   "FIELD6":"54.572"
+ },
+ {
+   "FIELD1":"RR_wd_nb_516",
+   "FIELD2":"07:06:00 PM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"7",
+   "FIELD6":"59.185"
+ },
+ {
+   "FIELD1":"RR_wd_nb_516",
+   "FIELD2":"07:12:00 PM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"8",
+   "FIELD6":"63.374"
+ },
+ {
+   "FIELD1":"RR_wd_nb_516",
+   "FIELD2":"07:26:00 PM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"9",
+   "FIELD6":"74.755"
+ },
+ {
+   "FIELD1":"RR_wd_nb_516",
+   "FIELD2":"07:31:00 PM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"10",
+   "FIELD6":"76.339"
+ },
+ {
+   "FIELD1":"RR_wd_nb_516",
+   "FIELD2":"07:50:00 PM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"11",
+   "FIELD6":"107.73"
+ },
+ {
+   "FIELD1":"RR_wd_nb_516",
+   "FIELD2":"08:13:00 PM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"12",
+   "FIELD6":"137.938"
+ },
+ {
+   "FIELD1":"RR_wd_nb_516",
+   "FIELD2":"08:33:00 PM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"13",
+   "FIELD6":"153.278"
+ },
+ {
+   "FIELD1":"RR_wd_nb_516",
+   "FIELD2":"08:38:00 PM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"14",
+   "FIELD6":"154.919"
+ },
+ {
+   "FIELD1":"RR_wd_nb_518",
+   "FIELD2":"07:01:00 PM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_wd_nb_518",
+   "FIELD2":"07:12:00 PM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"2",
+   "FIELD6":"15.385"
+ },
+ {
+   "FIELD1":"RR_wd_nb_518",
+   "FIELD2":"07:26:00 PM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"3",
+   "FIELD6":"33.079"
+ },
+ {
+   "FIELD1":"RR_wd_nb_518",
+   "FIELD2":"07:35:00 PM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"4",
+   "FIELD6":"42.493"
+ },
+ {
+   "FIELD1":"RR_wd_nb_518",
+   "FIELD2":"07:42:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"5",
+   "FIELD6":"48.463"
+ },
+ {
+   "FIELD1":"RR_wd_nb_520",
+   "FIELD2":"07:57:00 PM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_wd_nb_520",
+   "FIELD2":"08:08:00 PM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"2",
+   "FIELD6":"15.385"
+ },
+ {
+   "FIELD1":"RR_wd_nb_520",
+   "FIELD2":"08:22:00 PM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"3",
+   "FIELD6":"33.079"
+ },
+ {
+   "FIELD1":"RR_wd_nb_520",
+   "FIELD2":"08:31:00 PM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"4",
+   "FIELD6":"42.493"
+ },
+ {
+   "FIELD1":"RR_wd_nb_520",
+   "FIELD2":"08:38:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"5",
+   "FIELD6":"48.463"
+ },
+ {
+   "FIELD1":"RR_wd_sb_501",
+   "FIELD2":"04:45:00 AM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_wd_sb_501",
+   "FIELD2":"04:53:00 AM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"2",
+   "FIELD6":"5.984"
+ },
+ {
+   "FIELD1":"RR_wd_sb_501",
+   "FIELD2":"05:01:00 AM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"3",
+   "FIELD6":"15393"
+ },
+ {
+   "FIELD1":"RR_wd_sb_501",
+   "FIELD2":"05:13:00 AM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"4",
+   "FIELD6":"33.083"
+ },
+ {
+   "FIELD1":"RR_wd_sb_501",
+   "FIELD2":"05:24:00 AM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"5",
+   "FIELD6":"48.461"
+ },
+ {
+   "FIELD1":"RR_wd_sb_503",
+   "FIELD2":"05:30:00 AM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_wd_sb_503",
+   "FIELD2":"05:41:00 AM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"2",
+   "FIELD6":"5.984"
+ },
+ {
+   "FIELD1":"RR_wd_sb_503",
+   "FIELD2":"05:49:00 AM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"3",
+   "FIELD6":"15393"
+ },
+ {
+   "FIELD1":"RR_wd_sb_503",
+   "FIELD2":"06:06:00 AM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"4",
+   "FIELD6":"33.083"
+ },
+ {
+   "FIELD1":"RR_wd_sb_503",
+   "FIELD2":"06:17:00 AM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"5",
+   "FIELD6":"48.461"
+ },
+ {
+   "FIELD1":"RR_wd_sb_507",
+   "FIELD2":"05:39:00 AM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_wd_sb_507",
+   "FIELD2":"05:43:00 AM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"2",
+   "FIELD6":"1.65"
+ },
+ {
+   "FIELD1":"RR_wd_sb_507",
+   "FIELD2":"06:01:00 AM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"3",
+   "FIELD6":"17.05"
+ },
+ {
+   "FIELD1":"RR_wd_sb_507",
+   "FIELD2":"06:19:00 AM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"4",
+   "FIELD6":"47.498"
+ },
+ {
+   "FIELD1":"RR_wd_sb_507",
+   "FIELD2":"06:38:00 AM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"5",
+   "FIELD6":"78.908"
+ },
+ {
+   "FIELD1":"RR_wd_sb_507",
+   "FIELD2":"06:43:00 AM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"6",
+   "FIELD6":"80.474"
+ },
+ {
+   "FIELD1":"RR_wd_sb_507",
+   "FIELD2":"06:52:00 AM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"7",
+   "FIELD6":"91.848"
+ },
+ {
+   "FIELD1":"RR_wd_sb_507",
+   "FIELD2":"06:57:00 AM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"8",
+   "FIELD6":"96.063"
+ },
+ {
+   "FIELD1":"RR_wd_sb_507",
+   "FIELD2":"07:02:00 AM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"9",
+   "FIELD6":"100.658"
+ },
+ {
+   "FIELD1":"RR_wd_sb_507",
+   "FIELD2":"07:10:00 AM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"10",
+   "FIELD6":"106.763"
+ },
+ {
+   "FIELD1":"RR_wd_sb_507",
+   "FIELD2":"07:19:00 AM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"11",
+   "FIELD6":"112.747"
+ },
+ {
+   "FIELD1":"RR_wd_sb_507",
+   "FIELD2":"07:27:00 AM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"12",
+   "FIELD6":"122.156"
+ },
+ {
+   "FIELD1":"RR_wd_sb_507",
+   "FIELD2":"07:39:00 AM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"13",
+   "FIELD6":"139.846"
+ },
+ {
+   "FIELD1":"RR_wd_sb_507",
+   "FIELD2":"07:50:00 AM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"14",
+   "FIELD6":"155.224"
+ },
+ {
+   "FIELD1":"RR_wd_sb_509",
+   "FIELD2":"07:13:00 AM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_wd_sb_509",
+   "FIELD2":"07:18:00 AM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"2",
+   "FIELD6":"1.65"
+ },
+ {
+   "FIELD1":"RR_wd_sb_509",
+   "FIELD2":"07:37:00 AM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"3",
+   "FIELD6":"17.05"
+ },
+ {
+   "FIELD1":"RR_wd_sb_509",
+   "FIELD2":"07:55:00 AM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"4",
+   "FIELD6":"47.498"
+ },
+ {
+   "FIELD1":"RR_wd_sb_509",
+   "FIELD2":"08:14:00 AM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"5",
+   "FIELD6":"78.908"
+ },
+ {
+   "FIELD1":"RR_wd_sb_509",
+   "FIELD2":"08:18:00 AM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"6",
+   "FIELD6":"80.474"
+ },
+ {
+   "FIELD1":"RR_wd_sb_509",
+   "FIELD2":"08:27:00 AM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"7",
+   "FIELD6":"91.848"
+ },
+ {
+   "FIELD1":"RR_wd_sb_509",
+   "FIELD2":"08:32:00 AM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"8",
+   "FIELD6":"96.063"
+ },
+ {
+   "FIELD1":"RR_wd_sb_509",
+   "FIELD2":"08:37:00 AM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"9",
+   "FIELD6":"100.658"
+ },
+ {
+   "FIELD1":"RR_wd_sb_509",
+   "FIELD2":"08:45:00 AM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"10",
+   "FIELD6":"106.763"
+ },
+ {
+   "FIELD1":"RR_wd_sb_511",
+   "FIELD2":"01:02:00 PM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_wd_sb_511",
+   "FIELD2":"01:07:00 PM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"2",
+   "FIELD6":"1.65"
+ },
+ {
+   "FIELD1":"RR_wd_sb_511",
+   "FIELD2":"01:26:00 PM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"3",
+   "FIELD6":"17.05"
+ },
+ {
+   "FIELD1":"RR_wd_sb_511",
+   "FIELD2":"01:44:00 PM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"4",
+   "FIELD6":"47.498"
+ },
+ {
+   "FIELD1":"RR_wd_sb_511",
+   "FIELD2":"02:03:00 PM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"5",
+   "FIELD6":"78.908"
+ },
+ {
+   "FIELD1":"RR_wd_sb_511",
+   "FIELD2":"02:07:00 PM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"6",
+   "FIELD6":"80.474"
+ },
+ {
+   "FIELD1":"RR_wd_sb_511",
+   "FIELD2":"02:16:00 PM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"7",
+   "FIELD6":"91.848"
+ },
+ {
+   "FIELD1":"RR_wd_sb_511",
+   "FIELD2":"02:21:00 PM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"8",
+   "FIELD6":"96.063"
+ },
+ {
+   "FIELD1":"RR_wd_sb_511",
+   "FIELD2":"02:26:00 PM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"9",
+   "FIELD6":"100.658"
+ },
+ {
+   "FIELD1":"RR_wd_sb_511",
+   "FIELD2":"02:37:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"10",
+   "FIELD6":"106.763"
+ },
+ {
+   "FIELD1":"RR_wd_sb_511",
+   "FIELD2":"02:45:00 PM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"11",
+   "FIELD6":"112.747"
+ },
+ {
+   "FIELD1":"RR_wd_sb_511",
+   "FIELD2":"02:52:00 PM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"12",
+   "FIELD6":"122.156"
+ },
+ {
+   "FIELD1":"RR_wd_sb_511",
+   "FIELD2":"03:05:00 PM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"13",
+   "FIELD6":"139.846"
+ },
+ {
+   "FIELD1":"RR_wd_sb_511",
+   "FIELD2":"03:15:00 PM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"14",
+   "FIELD6":"155.224"
+ },
+ {
+   "FIELD1":"RR_wd_sb_513",
+   "FIELD2":"04:30:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"1",
+   "FIELD6":"106.763"
+ },
+ {
+   "FIELD1":"RR_wd_sb_513",
+   "FIELD2":"04:38:00 PM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"2",
+   "FIELD6":"112.747"
+ },
+ {
+   "FIELD1":"RR_wd_sb_513",
+   "FIELD2":"04:45:00 PM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"3",
+   "FIELD6":"122.156"
+ },
+ {
+   "FIELD1":"RR_wd_sb_513",
+   "FIELD2":"04:58:00 PM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"4",
+   "FIELD6":"139.846"
+ },
+ {
+   "FIELD1":"RR_wd_sb_513",
+   "FIELD2":"05:08:00 PM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"5",
+   "FIELD6":"155.224"
+ },
+ {
+   "FIELD1":"RR_wd_sb_515",
+   "FIELD2":"04:15:00 PM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_wd_sb_515",
+   "FIELD2":"04:20:00 PM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"2",
+   "FIELD6":"1.65"
+ },
+ {
+   "FIELD1":"RR_wd_sb_515",
+   "FIELD2":"04:39:00 PM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"3",
+   "FIELD6":"17.05"
+ },
+ {
+   "FIELD1":"RR_wd_sb_515",
+   "FIELD2":"04:57:00 PM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"4",
+   "FIELD6":"47.498"
+ },
+ {
+   "FIELD1":"RR_wd_sb_515",
+   "FIELD2":"05:16:00 PM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"5",
+   "FIELD6":"78.908"
+ },
+ {
+   "FIELD1":"RR_wd_sb_515",
+   "FIELD2":"05:20:00 PM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"6",
+   "FIELD6":"80.474"
+ },
+ {
+   "FIELD1":"RR_wd_sb_515",
+   "FIELD2":"05:29:00 PM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"7",
+   "FIELD6":"91.848"
+ },
+ {
+   "FIELD1":"RR_wd_sb_515",
+   "FIELD2":"05:34:00 PM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"8",
+   "FIELD6":"96.063"
+ },
+ {
+   "FIELD1":"RR_wd_sb_515",
+   "FIELD2":"05:39:00 PM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"9",
+   "FIELD6":"100.658"
+ },
+ {
+   "FIELD1":"RR_wd_sb_515",
+   "FIELD2":"05:50:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"10",
+   "FIELD6":"106.763"
+ },
+ {
+   "FIELD1":"RR_wd_sb_515",
+   "FIELD2":"05:57:00 PM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"11",
+   "FIELD6":"112.747"
+ },
+ {
+   "FIELD1":"RR_wd_sb_515",
+   "FIELD2":"06:06:00 PM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"12",
+   "FIELD6":"122.156"
+ },
+ {
+   "FIELD1":"RR_wd_sb_515",
+   "FIELD2":"06:22:00 PM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"13",
+   "FIELD6":"139.846"
+ },
+ {
+   "FIELD1":"RR_wd_sb_515",
+   "FIELD2":"06:33:00 PM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"14",
+   "FIELD6":"155.224"
+ },
+ {
+   "FIELD1":"RR_wd_sb_517",
+   "FIELD2":"05:30:00 PM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_wd_sb_517",
+   "FIELD2":"05:35:00 PM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"2",
+   "FIELD6":"1.65"
+ },
+ {
+   "FIELD1":"RR_wd_sb_517",
+   "FIELD2":"05:54:00 PM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"3",
+   "FIELD6":"17.05"
+ },
+ {
+   "FIELD1":"RR_wd_sb_517",
+   "FIELD2":"06:12:00 PM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"4",
+   "FIELD6":"47.498"
+ },
+ {
+   "FIELD1":"RR_wd_sb_517",
+   "FIELD2":"06:31:00 PM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"5",
+   "FIELD6":"78.908"
+ },
+ {
+   "FIELD1":"RR_wd_sb_517",
+   "FIELD2":"06:35:00 PM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"6",
+   "FIELD6":"80.474"
+ },
+ {
+   "FIELD1":"RR_wd_sb_517",
+   "FIELD2":"06:44:00 PM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"7",
+   "FIELD6":"91.848"
+ },
+ {
+   "FIELD1":"RR_wd_sb_517",
+   "FIELD2":"06:49:00 PM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"8",
+   "FIELD6":"96.063"
+ },
+ {
+   "FIELD1":"RR_wd_sb_517",
+   "FIELD2":"06:54:00 PM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"9",
+   "FIELD6":"100.658"
+ },
+ {
+   "FIELD1":"RR_wd_sb_517",
+   "FIELD2":"07:02:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"10",
+   "FIELD6":"106.763"
+ },
+ {
+   "FIELD1":"RR_wd_sb_517",
+   "FIELD2":"07:09:00 PM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"11",
+   "FIELD6":"112.747"
+ },
+ {
+   "FIELD1":"RR_wd_sb_517",
+   "FIELD2":"07:17:00 PM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"12",
+   "FIELD6":"122.156"
+ },
+ {
+   "FIELD1":"RR_wd_sb_517",
+   "FIELD2":"07:31:00 PM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"13",
+   "FIELD6":"139.846"
+ },
+ {
+   "FIELD1":"RR_wd_sb_517",
+   "FIELD2":"07:42:00 PM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"14",
+   "FIELD6":"155.224"
+ },
+ {
+   "FIELD1":"RR_wd_sb_519",
+   "FIELD2":"06:46:00 PM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_wd_sb_519",
+   "FIELD2":"06:51:00 PM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"2",
+   "FIELD6":"1.65"
+ },
+ {
+   "FIELD1":"RR_wd_sb_519",
+   "FIELD2":"07:10:00 PM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"3",
+   "FIELD6":"17.05"
+ },
+ {
+   "FIELD1":"RR_wd_sb_519",
+   "FIELD2":"07:28:00 PM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"4",
+   "FIELD6":"47.498"
+ },
+ {
+   "FIELD1":"RR_wd_sb_519",
+   "FIELD2":"07:47:00 PM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"5",
+   "FIELD6":"78.908"
+ },
+ {
+   "FIELD1":"RR_wd_sb_519",
+   "FIELD2":"07:51:00 PM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"6",
+   "FIELD6":"80.474"
+ },
+ {
+   "FIELD1":"RR_wd_sb_519",
+   "FIELD2":"08:00:00 PM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"7",
+   "FIELD6":"91.848"
+ },
+ {
+   "FIELD1":"RR_wd_sb_519",
+   "FIELD2":"08:05:00 PM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"8",
+   "FIELD6":"96.063"
+ },
+ {
+   "FIELD1":"RR_wd_sb_519",
+   "FIELD2":"08:10:00 PM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"9",
+   "FIELD6":"100.658"
+ },
+ {
+   "FIELD1":"RR_wd_sb_519",
+   "FIELD2":"08:18:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"10",
+   "FIELD6":"106.763"
+ },
+ {
+   "FIELD1":"RR_wd_sb_521",
+   "FIELD2":"09:00:00 PM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_wd_sb_521",
+   "FIELD2":"09:05:00 PM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"2",
+   "FIELD6":"1.65"
+ },
+ {
+   "FIELD1":"RR_wd_sb_521",
+   "FIELD2":"09:24:00 PM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"3",
+   "FIELD6":"17.05"
+ },
+ {
+   "FIELD1":"RR_wd_sb_521",
+   "FIELD2":"09:42:00 PM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"4",
+   "FIELD6":"47.498"
+ },
+ {
+   "FIELD1":"RR_wd_sb_521",
+   "FIELD2":"10:01:00 PM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"5",
+   "FIELD6":"78.908"
+ },
+ {
+   "FIELD1":"RR_wd_sb_521",
+   "FIELD2":"10:05:00 PM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"6",
+   "FIELD6":"80.474"
+ },
+ {
+   "FIELD1":"RR_wd_sb_521",
+   "FIELD2":"10:14:00 PM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"7",
+   "FIELD6":"91.848"
+ },
+ {
+   "FIELD1":"RR_wd_sb_521",
+   "FIELD2":"10:19:00 PM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"8",
+   "FIELD6":"96.063"
+ },
+ {
+   "FIELD1":"RR_wd_sb_521",
+   "FIELD2":"10:24:00 PM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"9",
+   "FIELD6":"100.658"
+ },
+ {
+   "FIELD1":"RR_wd_sb_521",
+   "FIELD2":"10:32:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"10",
+   "FIELD6":"106.763"
+ },
+ {
+   "FIELD1":"RR_sat_sb_701",
+   "FIELD2":"07:28:00 AM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"1",
+   "FIELD6":"106.763"
+ },
+ {
+   "FIELD1":"RR_sat_sb_701",
+   "FIELD2":"07:38:00 AM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"2",
+   "FIELD6":"112.747"
+ },
+ {
+   "FIELD1":"RR_sat_sb_701",
+   "FIELD2":"07:45:00 AM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"3",
+   "FIELD6":"122.156"
+ },
+ {
+   "FIELD1":"RR_sat_sb_701",
+   "FIELD2":"07:56:00 AM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"4",
+   "FIELD6":"139.846"
+ },
+ {
+   "FIELD1":"RR_sat_sb_701",
+   "FIELD2":"08:06:00 AM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"5",
+   "FIELD6":"155.224"
+ },
+ {
+   "FIELD1":"RR_sat_sb_703",
+   "FIELD2":"10:44:00 AM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_sat_sb_703",
+   "FIELD2":"10:49:00 AM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"2",
+   "FIELD6":"1.65"
+ },
+ {
+   "FIELD1":"RR_sat_sb_703",
+   "FIELD2":"11:05:00 AM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"3",
+   "FIELD6":"17.05"
+ },
+ {
+   "FIELD1":"RR_sat_sb_703",
+   "FIELD2":"11:23:00 AM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"4",
+   "FIELD6":"47.498"
+ },
+ {
+   "FIELD1":"RR_sat_sb_703",
+   "FIELD2":"11:41:00 AM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"5",
+   "FIELD6":"78.908"
+ },
+ {
+   "FIELD1":"RR_sat_sb_703",
+   "FIELD2":"11:44:00 AM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"6",
+   "FIELD6":"80.474"
+ },
+ {
+   "FIELD1":"RR_sat_sb_703",
+   "FIELD2":"11:52:00 AM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"7",
+   "FIELD6":"91.848"
+ },
+ {
+   "FIELD1":"RR_sat_sb_703",
+   "FIELD2":"11:57:00 AM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"8",
+   "FIELD6":"96.063"
+ },
+ {
+   "FIELD1":"RR_sat_sb_703",
+   "FIELD2":"12:03:00 PM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"9",
+   "FIELD6":"100.658"
+ },
+ {
+   "FIELD1":"RR_sat_sb_703",
+   "FIELD2":"12:12:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"10",
+   "FIELD6":"106.763"
+ },
+ {
+   "FIELD1":"RR_sat_sb_703",
+   "FIELD2":"12:22:00 PM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"11",
+   "FIELD6":"112.747"
+ },
+ {
+   "FIELD1":"RR_sat_sb_703",
+   "FIELD2":"12:29:00 PM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"12",
+   "FIELD6":"122.156"
+ },
+ {
+   "FIELD1":"RR_sat_sb_703",
+   "FIELD2":"12:40:00 PM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"13",
+   "FIELD6":"139.846"
+ },
+ {
+   "FIELD1":"RR_sat_sb_703",
+   "FIELD2":"12:50:00 PM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"14",
+   "FIELD6":"155.224"
+ },
+ {
+   "FIELD1":"RR_sat_sb_705",
+   "FIELD2":"03:27:00 PM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_sat_sb_705",
+   "FIELD2":"03:32:00 PM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"2",
+   "FIELD6":"1.65"
+ },
+ {
+   "FIELD1":"RR_sat_sb_705",
+   "FIELD2":"03:48:00 PM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"3",
+   "FIELD6":"17.05"
+ },
+ {
+   "FIELD1":"RR_sat_sb_705",
+   "FIELD2":"04:06:00 PM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"4",
+   "FIELD6":"47.498"
+ },
+ {
+   "FIELD1":"RR_sat_sb_705",
+   "FIELD2":"04:24:00 PM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"5",
+   "FIELD6":"78.908"
+ },
+ {
+   "FIELD1":"RR_sat_sb_705",
+   "FIELD2":"04:27:00 PM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"6",
+   "FIELD6":"80.474"
+ },
+ {
+   "FIELD1":"RR_sat_sb_705",
+   "FIELD2":"04:35:00 PM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"7",
+   "FIELD6":"91.848"
+ },
+ {
+   "FIELD1":"RR_sat_sb_705",
+   "FIELD2":"04:40:00 PM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"8",
+   "FIELD6":"96.063"
+ },
+ {
+   "FIELD1":"RR_sat_sb_705",
+   "FIELD2":"04:46:00 PM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"9",
+   "FIELD6":"100.658"
+ },
+ {
+   "FIELD1":"RR_sat_sb_705",
+   "FIELD2":"04:57:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"10",
+   "FIELD6":"106.763"
+ },
+ {
+   "FIELD1":"RR_sat_sb_705",
+   "FIELD2":"05:07:00 PM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"11",
+   "FIELD6":"112.747"
+ },
+ {
+   "FIELD1":"RR_sat_sb_705",
+   "FIELD2":"05:14:00 PM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"12",
+   "FIELD6":"122.156"
+ },
+ {
+   "FIELD1":"RR_sat_sb_705",
+   "FIELD2":"05:25:00 PM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"13",
+   "FIELD6":"139.846"
+ },
+ {
+   "FIELD1":"RR_sat_sb_705",
+   "FIELD2":"05:35:00 PM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"14",
+   "FIELD6":"155.224"
+ },
+ {
+   "FIELD1":"RR_sat_sb_707",
+   "FIELD2":"06:48:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"1",
+   "FIELD6":"106.763"
+ },
+ {
+   "FIELD1":"RR_sat_sb_707",
+   "FIELD2":"06:58:00 PM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"2",
+   "FIELD6":"112.747"
+ },
+ {
+   "FIELD1":"RR_sat_sb_707",
+   "FIELD2":"07:05:00 PM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"3",
+   "FIELD6":"122.156"
+ },
+ {
+   "FIELD1":"RR_sat_sb_707",
+   "FIELD2":"07:16:00 PM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"4",
+   "FIELD6":"139.846"
+ },
+ {
+   "FIELD1":"RR_sat_sb_707",
+   "FIELD2":"07:26:00 PM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"5",
+   "FIELD6":"155.224"
+ },
+ {
+   "FIELD1":"RR_sat_sb_709",
+   "FIELD2":"08:12:00 PM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_sat_sb_709",
+   "FIELD2":"08:17:00 PM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"2",
+   "FIELD6":"1.65"
+ },
+ {
+   "FIELD1":"RR_sat_sb_709",
+   "FIELD2":"08:33:00 PM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"3",
+   "FIELD6":"17.05"
+ },
+ {
+   "FIELD1":"RR_sat_sb_709",
+   "FIELD2":"08:51:00 PM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"4",
+   "FIELD6":"47.498"
+ },
+ {
+   "FIELD1":"RR_sat_sb_709",
+   "FIELD2":"09:09:00 PM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"5",
+   "FIELD6":"78.908"
+ },
+ {
+   "FIELD1":"RR_sat_sb_709",
+   "FIELD2":"09:12:00 PM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"6",
+   "FIELD6":"80.474"
+ },
+ {
+   "FIELD1":"RR_sat_sb_709",
+   "FIELD2":"09:20:00 PM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"7",
+   "FIELD6":"91.848"
+ },
+ {
+   "FIELD1":"RR_sat_sb_709",
+   "FIELD2":"09:25:00 PM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"8",
+   "FIELD6":"96.063"
+ },
+ {
+   "FIELD1":"RR_sat_sb_709",
+   "FIELD2":"09:31:00 PM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"9",
+   "FIELD6":"100.658"
+ },
+ {
+   "FIELD1":"RR_sat_sb_709",
+   "FIELD2":"09:40:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"10",
+   "FIELD6":"106.763"
+ },
+ {
+   "FIELD1":"RR_sat_sb_709",
+   "FIELD2":"09:50:00 PM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"11",
+   "FIELD6":"112.747"
+ },
+ {
+   "FIELD1":"RR_sat_sb_709",
+   "FIELD2":"09:57:00 PM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"12",
+   "FIELD6":"122.156"
+ },
+ {
+   "FIELD1":"RR_sat_sb_709",
+   "FIELD2":"10:08:00 PM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"13",
+   "FIELD6":"139.846"
+ },
+ {
+   "FIELD1":"RR_sat_sb_709",
+   "FIELD2":"10:18:00 PM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"14",
+   "FIELD6":"155.224"
+ },
+ {
+   "FIELD1":"RR_sat_sb_711",
+   "FIELD2":"10:07:00 PM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_sat_sb_711",
+   "FIELD2":"10:12:00 PM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"2",
+   "FIELD6":"1.65"
+ },
+ {
+   "FIELD1":"RR_sat_sb_711",
+   "FIELD2":"10:28:00 PM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"3",
+   "FIELD6":"17.05"
+ },
+ {
+   "FIELD1":"RR_sat_sb_711",
+   "FIELD2":"10:46:00 PM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"4",
+   "FIELD6":"47.498"
+ },
+ {
+   "FIELD1":"RR_sat_sb_711",
+   "FIELD2":"11:04:00 PM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"5",
+   "FIELD6":"78.908"
+ },
+ {
+   "FIELD1":"RR_sat_sb_711",
+   "FIELD2":"11:07:00 PM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"6",
+   "FIELD6":"80.474"
+ },
+ {
+   "FIELD1":"RR_sat_sb_711",
+   "FIELD2":"11:15:00 PM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"7",
+   "FIELD6":"91.848"
+ },
+ {
+   "FIELD1":"RR_sat_sb_711",
+   "FIELD2":"11:20:00 PM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"8",
+   "FIELD6":"96.063"
+ },
+ {
+   "FIELD1":"RR_sat_sb_711",
+   "FIELD2":"11:26:00 PM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"9",
+   "FIELD6":"100.658"
+ },
+ {
+   "FIELD1":"RR_sat_sb_711",
+   "FIELD2":"11:34:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"10",
+   "FIELD6":"106.763"
+ },
+ {
+   "FIELD1":"RR_sat_nb_702",
+   "FIELD2":"08:20:00 AM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_sat_nb_702",
+   "FIELD2":"08:30:00 AM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"2",
+   "FIELD6":"15.385"
+ },
+ {
+   "FIELD1":"RR_sat_nb_702",
+   "FIELD2":"08:41:00 AM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"3",
+   "FIELD6":"33.079"
+ },
+ {
+   "FIELD1":"RR_sat_nb_702",
+   "FIELD2":"08:48:00 AM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"4",
+   "FIELD6":"42.493"
+ },
+ {
+   "FIELD1":"RR_sat_nb_702",
+   "FIELD2":"08:58:00 AM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"5",
+   "FIELD6":"48.463"
+ },
+ {
+   "FIELD1":"RR_sat_nb_702",
+   "FIELD2":"09:07:00 AM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"6",
+   "FIELD6":"54.572"
+ },
+ {
+   "FIELD1":"RR_sat_nb_702",
+   "FIELD2":"09:13:00 AM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"7",
+   "FIELD6":"59.185"
+ },
+ {
+   "FIELD1":"RR_sat_nb_702",
+   "FIELD2":"09:18:00 AM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"8",
+   "FIELD6":"63.374"
+ },
+ {
+   "FIELD1":"RR_sat_nb_702",
+   "FIELD2":"09:26:00 AM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"9",
+   "FIELD6":"74.755"
+ },
+ {
+   "FIELD1":"RR_sat_nb_702",
+   "FIELD2":"09:29:00 AM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"10",
+   "FIELD6":"76.339"
+ },
+ {
+   "FIELD1":"RR_sat_nb_702",
+   "FIELD2":"09:47:00 AM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"11",
+   "FIELD6":"107.73"
+ },
+ {
+   "FIELD1":"RR_sat_nb_702",
+   "FIELD2":"10:05:00 AM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"12",
+   "FIELD6":"137.938"
+ },
+ {
+   "FIELD1":"RR_sat_nb_702",
+   "FIELD2":"10:21:00 AM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"13",
+   "FIELD6":"153.278"
+ },
+ {
+   "FIELD1":"RR_sat_nb_702",
+   "FIELD2":"10:26:00 AM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"14",
+   "FIELD6":"154.919"
+ },
+ {
+   "FIELD1":"RR_sat_nb_704",
+   "FIELD2":"01:04:00 PM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_sat_nb_704",
+   "FIELD2":"01:14:00 PM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"2",
+   "FIELD6":"15.385"
+ },
+ {
+   "FIELD1":"RR_sat_nb_704",
+   "FIELD2":"01:25:00 PM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"3",
+   "FIELD6":"33.079"
+ },
+ {
+   "FIELD1":"RR_sat_nb_704",
+   "FIELD2":"01:32:00 PM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"4",
+   "FIELD6":"42.493"
+ },
+ {
+   "FIELD1":"RR_sat_nb_704",
+   "FIELD2":"01:42:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"5",
+   "FIELD6":"48.463"
+ },
+ {
+   "FIELD1":"RR_sat_nb_704",
+   "FIELD2":"01:51:00 PM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"6",
+   "FIELD6":"54.572"
+ },
+ {
+   "FIELD1":"RR_sat_nb_704",
+   "FIELD2":"01:57:00 PM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"7",
+   "FIELD6":"59.185"
+ },
+ {
+   "FIELD1":"RR_sat_nb_704",
+   "FIELD2":"02:02:00 PM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"8",
+   "FIELD6":"63.374"
+ },
+ {
+   "FIELD1":"RR_sat_nb_704",
+   "FIELD2":"02:10:00 PM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"9",
+   "FIELD6":"74.755"
+ },
+ {
+   "FIELD1":"RR_sat_nb_704",
+   "FIELD2":"02:13:00 PM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"10",
+   "FIELD6":"76.339"
+ },
+ {
+   "FIELD1":"RR_sat_nb_704",
+   "FIELD2":"02:31:00 PM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"11",
+   "FIELD6":"107.73"
+ },
+ {
+   "FIELD1":"RR_sat_nb_704",
+   "FIELD2":"02:49:00 PM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"12",
+   "FIELD6":"137.938"
+ },
+ {
+   "FIELD1":"RR_sat_nb_704",
+   "FIELD2":"03:05:00 PM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"13",
+   "FIELD6":"153.278"
+ },
+ {
+   "FIELD1":"RR_sat_nb_704",
+   "FIELD2":"03:10:00 PM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"14",
+   "FIELD6":"154.919"
+ },
+ {
+   "FIELD1":"RR_sat_nb_706",
+   "FIELD2":"05:49:00 PM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_sat_nb_706",
+   "FIELD2":"05:59:00 PM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"2",
+   "FIELD6":"15.385"
+ },
+ {
+   "FIELD1":"RR_sat_nb_706",
+   "FIELD2":"06:10:00 PM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"3",
+   "FIELD6":"33.079"
+ },
+ {
+   "FIELD1":"RR_sat_nb_706",
+   "FIELD2":"06:17:00 PM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"4",
+   "FIELD6":"42.493"
+ },
+ {
+   "FIELD1":"RR_sat_nb_706",
+   "FIELD2":"06:27:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"5",
+   "FIELD6":"48.463"
+ },
+ {
+   "FIELD1":"RR_sat_nb_706",
+   "FIELD2":"06:36:00 PM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"6",
+   "FIELD6":"54.572"
+ },
+ {
+   "FIELD1":"RR_sat_nb_706",
+   "FIELD2":"06:42:00 PM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"7",
+   "FIELD6":"59.185"
+ },
+ {
+   "FIELD1":"RR_sat_nb_706",
+   "FIELD2":"06:47:00 PM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"8",
+   "FIELD6":"63.374"
+ },
+ {
+   "FIELD1":"RR_sat_nb_706",
+   "FIELD2":"06:55:00 PM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"9",
+   "FIELD6":"74.755"
+ },
+ {
+   "FIELD1":"RR_sat_nb_706",
+   "FIELD2":"06:58:00 PM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"10",
+   "FIELD6":"76.339"
+ },
+ {
+   "FIELD1":"RR_sat_nb_706",
+   "FIELD2":"07:16:00 PM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"11",
+   "FIELD6":"107.73"
+ },
+ {
+   "FIELD1":"RR_sat_nb_706",
+   "FIELD2":"07:34:00 PM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"12",
+   "FIELD6":"137.938"
+ },
+ {
+   "FIELD1":"RR_sat_nb_706",
+   "FIELD2":"07:50:00 PM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"13",
+   "FIELD6":"153.278"
+ },
+ {
+   "FIELD1":"RR_sat_nb_706",
+   "FIELD2":"07:55:00 PM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"14",
+   "FIELD6":"154.919"
+ },
+ {
+   "FIELD1":"RR_sat_nb_708",
+   "FIELD2":"07:44:00 PM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_sat_nb_708",
+   "FIELD2":"07:54:00 PM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"2",
+   "FIELD6":"15.385"
+ },
+ {
+   "FIELD1":"RR_sat_nb_708",
+   "FIELD2":"08:05:00 PM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"3",
+   "FIELD6":"33.079"
+ },
+ {
+   "FIELD1":"RR_sat_nb_708",
+   "FIELD2":"08:12:00 PM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"4",
+   "FIELD6":"42.493"
+ },
+ {
+   "FIELD1":"RR_sat_nb_708",
+   "FIELD2":"08:22:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"5",
+   "FIELD6":"48.463"
+ },
+ {
+   "FIELD1":"RR_sat_nb_708",
+   "FIELD2":"08:31:00 PM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"6",
+   "FIELD6":"54.572"
+ },
+ {
+   "FIELD1":"RR_sat_nb_708",
+   "FIELD2":"08:37:00 PM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"7",
+   "FIELD6":"59.185"
+ },
+ {
+   "FIELD1":"RR_sat_nb_708",
+   "FIELD2":"08:42:00 PM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"8",
+   "FIELD6":"63.374"
+ },
+ {
+   "FIELD1":"RR_sat_nb_708",
+   "FIELD2":"08:50:00 PM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"9",
+   "FIELD6":"74.755"
+ },
+ {
+   "FIELD1":"RR_sat_nb_708",
+   "FIELD2":"08:53:00 PM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"10",
+   "FIELD6":"76.339"
+ },
+ {
+   "FIELD1":"RR_sat_nb_708",
+   "FIELD2":"09:11:00 PM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"11",
+   "FIELD6":"107.73"
+ },
+ {
+   "FIELD1":"RR_sat_nb_708",
+   "FIELD2":"09:29:00 PM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"12",
+   "FIELD6":"137.938"
+ },
+ {
+   "FIELD1":"RR_sat_nb_708",
+   "FIELD2":"09:45:00 PM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"13",
+   "FIELD6":"153.278"
+ },
+ {
+   "FIELD1":"RR_sat_nb_708",
+   "FIELD2":"09:50:00 PM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"14",
+   "FIELD6":"154.919"
+ },
+ {
+   "FIELD1":"RR_sat_nb_710",
+   "FIELD2":"10:33:00 PM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_sat_nb_710",
+   "FIELD2":"10:43:00 PM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"2",
+   "FIELD6":"15.385"
+ },
+ {
+   "FIELD1":"RR_sat_nb_710",
+   "FIELD2":"10:54:00 PM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"3",
+   "FIELD6":"33.079"
+ },
+ {
+   "FIELD1":"RR_sat_nb_710",
+   "FIELD2":"11:01:00 PM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"4",
+   "FIELD6":"42.493"
+ },
+ {
+   "FIELD1":"RR_sat_nb_710",
+   "FIELD2":"11:09:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"5",
+   "FIELD6":"48.463"
+ },
+ {
+   "FIELD1":"RR_sun_nb_702",
+   "FIELD2":"08:20:00 AM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_sun_nb_702",
+   "FIELD2":"08:30:00 AM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"2",
+   "FIELD6":"15.385"
+ },
+ {
+   "FIELD1":"RR_sun_nb_702",
+   "FIELD2":"08:41:00 AM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"3",
+   "FIELD6":"33.079"
+ },
+ {
+   "FIELD1":"RR_sun_nb_702",
+   "FIELD2":"08:48:00 AM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"4",
+   "FIELD6":"42.493"
+ },
+ {
+   "FIELD1":"RR_sun_nb_702",
+   "FIELD2":"08:58:00 AM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"5",
+   "FIELD6":"48.463"
+ },
+ {
+   "FIELD1":"RR_sun_nb_702",
+   "FIELD2":"09:07:00 AM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"6",
+   "FIELD6":"54.572"
+ },
+ {
+   "FIELD1":"RR_sun_nb_702",
+   "FIELD2":"09:13:00 AM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"7",
+   "FIELD6":"59.185"
+ },
+ {
+   "FIELD1":"RR_sun_nb_702",
+   "FIELD2":"09:18:00 AM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"8",
+   "FIELD6":"63.374"
+ },
+ {
+   "FIELD1":"RR_sun_nb_702",
+   "FIELD2":"09:26:00 AM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"9",
+   "FIELD6":"74.755"
+ },
+ {
+   "FIELD1":"RR_sun_nb_702",
+   "FIELD2":"09:29:00 AM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"10",
+   "FIELD6":"76.339"
+ },
+ {
+   "FIELD1":"RR_sun_nb_702",
+   "FIELD2":"09:47:00 AM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"11",
+   "FIELD6":"107.73"
+ },
+ {
+   "FIELD1":"RR_sun_nb_702",
+   "FIELD2":"10:08:00 AM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"12",
+   "FIELD6":"137.938"
+ },
+ {
+   "FIELD1":"RR_sun_nb_702",
+   "FIELD2":"10:24:00 AM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"13",
+   "FIELD6":"153.278"
+ },
+ {
+   "FIELD1":"RR_sun_nb_702",
+   "FIELD2":"10:29:00 AM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"14",
+   "FIELD6":"154.919"
+ },
+ {
+   "FIELD1":"RR_sun_nb_704",
+   "FIELD2":"01:04:00 PM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_sun_nb_704",
+   "FIELD2":"01:14:00 PM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"2",
+   "FIELD6":"15.385"
+ },
+ {
+   "FIELD1":"RR_sun_nb_704",
+   "FIELD2":"01:25:00 PM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"3",
+   "FIELD6":"33.079"
+ },
+ {
+   "FIELD1":"RR_sun_nb_704",
+   "FIELD2":"01:32:00 PM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"4",
+   "FIELD6":"42.493"
+ },
+ {
+   "FIELD1":"RR_sun_nb_704",
+   "FIELD2":"01:42:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"5",
+   "FIELD6":"48.463"
+ },
+ {
+   "FIELD1":"RR_sun_nb_704",
+   "FIELD2":"01:51:00 PM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"6",
+   "FIELD6":"54.572"
+ },
+ {
+   "FIELD1":"RR_sun_nb_704",
+   "FIELD2":"01:57:00 PM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"7",
+   "FIELD6":"59.185"
+ },
+ {
+   "FIELD1":"RR_sun_nb_704",
+   "FIELD2":"02:02:00 PM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"8",
+   "FIELD6":"63.374"
+ },
+ {
+   "FIELD1":"RR_sun_nb_704",
+   "FIELD2":"02:10:00 PM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"9",
+   "FIELD6":"74.755"
+ },
+ {
+   "FIELD1":"RR_sun_nb_704",
+   "FIELD2":"02:13:00 PM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"10",
+   "FIELD6":"76.339"
+ },
+ {
+   "FIELD1":"RR_sun_nb_704",
+   "FIELD2":"02:31:00 PM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"11",
+   "FIELD6":"107.73"
+ },
+ {
+   "FIELD1":"RR_sun_nb_704",
+   "FIELD2":"02:52:00 PM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"12",
+   "FIELD6":"137.938"
+ },
+ {
+   "FIELD1":"RR_sun_nb_704",
+   "FIELD2":"03:08:00 PM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"13",
+   "FIELD6":"153.278"
+ },
+ {
+   "FIELD1":"RR_sun_nb_704",
+   "FIELD2":"03:13:00 PM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"14",
+   "FIELD6":"154.919"
+ },
+ {
+   "FIELD1":"RR_sun_nb_706",
+   "FIELD2":"05:49:00 PM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_sun_nb_706",
+   "FIELD2":"05:59:00 PM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"2",
+   "FIELD6":"15.385"
+ },
+ {
+   "FIELD1":"RR_sun_nb_706",
+   "FIELD2":"06:10:00 PM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"3",
+   "FIELD6":"33.079"
+ },
+ {
+   "FIELD1":"RR_sun_nb_706",
+   "FIELD2":"06:17:00 PM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"4",
+   "FIELD6":"42.493"
+ },
+ {
+   "FIELD1":"RR_sun_nb_706",
+   "FIELD2":"06:27:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"5",
+   "FIELD6":"48.463"
+ },
+ {
+   "FIELD1":"RR_sun_nb_706",
+   "FIELD2":"06:36:00 PM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"6",
+   "FIELD6":"54.572"
+ },
+ {
+   "FIELD1":"RR_sun_nb_706",
+   "FIELD2":"06:42:00 PM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"7",
+   "FIELD6":"59.185"
+ },
+ {
+   "FIELD1":"RR_sun_nb_706",
+   "FIELD2":"06:47:00 PM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"8",
+   "FIELD6":"63.374"
+ },
+ {
+   "FIELD1":"RR_sun_nb_706",
+   "FIELD2":"06:55:00 PM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"9",
+   "FIELD6":"74.755"
+ },
+ {
+   "FIELD1":"RR_sun_nb_706",
+   "FIELD2":"06:58:00 PM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"10",
+   "FIELD6":"76.339"
+ },
+ {
+   "FIELD1":"RR_sun_nb_706",
+   "FIELD2":"07:16:00 PM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"11",
+   "FIELD6":"107.73"
+ },
+ {
+   "FIELD1":"RR_sun_nb_706",
+   "FIELD2":"07:34:00 PM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"12",
+   "FIELD6":"137.938"
+ },
+ {
+   "FIELD1":"RR_sun_nb_706",
+   "FIELD2":"07:50:00 PM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"13",
+   "FIELD6":"153.278"
+ },
+ {
+   "FIELD1":"RR_sun_nb_706",
+   "FIELD2":"07:55:00 PM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"14",
+   "FIELD6":"154.919"
+ },
+ {
+   "FIELD1":"RR_sun_sb_701",
+   "FIELD2":"07:28:00 AM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"1",
+   "FIELD6":"106.763"
+ },
+ {
+   "FIELD1":"RR_sun_sb_701",
+   "FIELD2":"07:38:00 AM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"2",
+   "FIELD6":"112.747"
+ },
+ {
+   "FIELD1":"RR_sun_sb_701",
+   "FIELD2":"07:45:00 AM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"3",
+   "FIELD6":"122.156"
+ },
+ {
+   "FIELD1":"RR_sun_sb_701",
+   "FIELD2":"07:56:00 AM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"4",
+   "FIELD6":"139.846"
+ },
+ {
+   "FIELD1":"RR_sun_sb_701",
+   "FIELD2":"08:06:00 AM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"5",
+   "FIELD6":"155.224"
+ },
+ {
+   "FIELD1":"RR_sun_sb_703",
+   "FIELD2":"10:44:00 AM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_sun_sb_703",
+   "FIELD2":"10:49:00 AM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"2",
+   "FIELD6":"1.65"
+ },
+ {
+   "FIELD1":"RR_sun_sb_703",
+   "FIELD2":"11:05:00 AM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"3",
+   "FIELD6":"17.05"
+ },
+ {
+   "FIELD1":"RR_sun_sb_703",
+   "FIELD2":"11:23:00 AM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"4",
+   "FIELD6":"47.498"
+ },
+ {
+   "FIELD1":"RR_sun_sb_703",
+   "FIELD2":"11:41:00 AM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"5",
+   "FIELD6":"78.908"
+ },
+ {
+   "FIELD1":"RR_sun_sb_703",
+   "FIELD2":"11:44:00 AM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"6",
+   "FIELD6":"80.474"
+ },
+ {
+   "FIELD1":"RR_sun_sb_703",
+   "FIELD2":"11:52:00 AM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"7",
+   "FIELD6":"91.848"
+ },
+ {
+   "FIELD1":"RR_sun_sb_703",
+   "FIELD2":"11:57:00 AM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"8",
+   "FIELD6":"96.063"
+ },
+ {
+   "FIELD1":"RR_sun_sb_703",
+   "FIELD2":"12:03:00 PM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"9",
+   "FIELD6":"100.658"
+ },
+ {
+   "FIELD1":"RR_sun_sb_703",
+   "FIELD2":"12:12:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"10",
+   "FIELD6":"106.763"
+ },
+ {
+   "FIELD1":"RR_sun_sb_703",
+   "FIELD2":"12:22:00 PM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"11",
+   "FIELD6":"112.747"
+ },
+ {
+   "FIELD1":"RR_sun_sb_703",
+   "FIELD2":"12:29:00 PM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"12",
+   "FIELD6":"122.156"
+ },
+ {
+   "FIELD1":"RR_sun_sb_703",
+   "FIELD2":"12:40:00 PM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"13",
+   "FIELD6":"139.846"
+ },
+ {
+   "FIELD1":"RR_sun_sb_703",
+   "FIELD2":"12:50:00 PM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"14",
+   "FIELD6":"155.224"
+ },
+ {
+   "FIELD1":"RR_sun_sb_705",
+   "FIELD2":"03:27:00 PM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_sun_sb_705",
+   "FIELD2":"03:32:00 PM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"2",
+   "FIELD6":"1.65"
+ },
+ {
+   "FIELD1":"RR_sun_sb_705",
+   "FIELD2":"03:48:00 PM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"3",
+   "FIELD6":"17.05"
+ },
+ {
+   "FIELD1":"RR_sun_sb_705",
+   "FIELD2":"04:06:00 PM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"4",
+   "FIELD6":"47.498"
+ },
+ {
+   "FIELD1":"RR_sun_sb_705",
+   "FIELD2":"04:24:00 PM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"5",
+   "FIELD6":"78.908"
+ },
+ {
+   "FIELD1":"RR_sun_sb_705",
+   "FIELD2":"04:27:00 PM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"6",
+   "FIELD6":"80.474"
+ },
+ {
+   "FIELD1":"RR_sun_sb_705",
+   "FIELD2":"04:35:00 PM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"7",
+   "FIELD6":"91.848"
+ },
+ {
+   "FIELD1":"RR_sun_sb_705",
+   "FIELD2":"04:40:00 PM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"8",
+   "FIELD6":"96.063"
+ },
+ {
+   "FIELD1":"RR_sun_sb_705",
+   "FIELD2":"04:46:00 PM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"9",
+   "FIELD6":"100.658"
+ },
+ {
+   "FIELD1":"RR_sun_sb_705",
+   "FIELD2":"04:57:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"10",
+   "FIELD6":"106.763"
+ },
+ {
+   "FIELD1":"RR_sun_sb_705",
+   "FIELD2":"05:07:00 PM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"11",
+   "FIELD6":"112.747"
+ },
+ {
+   "FIELD1":"RR_sun_sb_705",
+   "FIELD2":"05:14:00 PM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"12",
+   "FIELD6":"122.156"
+ },
+ {
+   "FIELD1":"RR_sun_sb_705",
+   "FIELD2":"05:25:00 PM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"13",
+   "FIELD6":"139.846"
+ },
+ {
+   "FIELD1":"RR_sun_sb_705",
+   "FIELD2":"05:35:00 PM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"14",
+   "FIELD6":"155.224"
+ },
+ {
+   "FIELD1":"RR_sun_sb_709",
+   "FIELD2":"08:12:00 PM",
+   "FIELD3":"sf",
+   "FIELD4":"Santa Fe Depot",
+   "FIELD5":"1",
+   "FIELD6":"0"
+ },
+ {
+   "FIELD1":"RR_sun_sb_709",
+   "FIELD2":"08:17:00 PM",
+   "FIELD3":"socap",
+   "FIELD4":"South Capitol",
+   "FIELD5":"2",
+   "FIELD6":"1.65"
+ },
+ {
+   "FIELD1":"RR_sun_sb_709",
+   "FIELD2":"08:33:00 PM",
+   "FIELD3":"sf_co599",
+   "FIELD4":"SF County / NM 599",
+   "FIELD5":"3",
+   "FIELD6":"17.05"
+ },
+ {
+   "FIELD1":"RR_sun_sb_709",
+   "FIELD2":"08:51:00 PM",
+   "FIELD3":"kewa",
+   "FIELD4":"Kewa",
+   "FIELD5":"4",
+   "FIELD6":"47.498"
+ },
+ {
+   "FIELD1":"RR_sun_sb_709",
+   "FIELD2":"09:09:00 PM",
+   "FIELD3":"sandoval",
+   "FIELD4":"Sandoval / US550",
+   "FIELD5":"5",
+   "FIELD6":"78.908"
+ },
+ {
+   "FIELD1":"RR_sun_sb_709",
+   "FIELD2":"09:12:00 PM",
+   "FIELD3":"dtwn_bernalillo",
+   "FIELD4":"Downtown Bernalillo",
+   "FIELD5":"6",
+   "FIELD6":"80.474"
+ },
+ {
+   "FIELD1":"RR_sun_sb_709",
+   "FIELD2":"09:20:00 PM",
+   "FIELD3":"sandia",
+   "FIELD4":"Sandia Pueblo",
+   "FIELD5":"7",
+   "FIELD6":"91.848"
+ },
+ {
+   "FIELD1":"RR_sun_sb_709",
+   "FIELD2":"09:25:00 PM",
+   "FIELD3":"losranchos",
+   "FIELD4":"Los Ranchos / JC",
+   "FIELD5":"8",
+   "FIELD6":"96.063"
+ },
+ {
+   "FIELD1":"RR_sun_sb_709",
+   "FIELD2":"09:31:00 PM",
+   "FIELD3":"montano",
+   "FIELD4":"Montaño",
+   "FIELD5":"9",
+   "FIELD6":"100.658"
+ },
+ {
+   "FIELD1":"RR_sun_sb_709",
+   "FIELD2":"09:40:00 PM",
+   "FIELD3":"abq",
+   "FIELD4":"Downtown ABQ",
+   "FIELD5":"10",
+   "FIELD6":"106.763"
+ },
+ {
+   "FIELD1":"RR_sun_sb_709",
+   "FIELD2":"09:50:00 PM",
+   "FIELD3":"bernalillo_co",
+   "FIELD4":"Bernalillo County",
+   "FIELD5":"11",
+   "FIELD6":"112.747"
+ },
+ {
+   "FIELD1":"RR_sun_sb_709",
+   "FIELD2":"09:57:00 PM",
+   "FIELD3":"isleta",
+   "FIELD4":"Isleta Pueblo",
+   "FIELD5":"12",
+   "FIELD6":"122.156"
+ },
+ {
+   "FIELD1":"RR_sun_sb_709",
+   "FIELD2":"10:08:00 PM",
+   "FIELD3":"lunas",
+   "FIELD4":"Los Lunas",
+   "FIELD5":"13",
+   "FIELD6":"139.846"
+ },
+ {
+   "FIELD1":"RR_sun_sb_709",
+   "FIELD2":"10:18:00 PM",
+   "FIELD3":"belen",
+   "FIELD4":"Belen",
+   "FIELD5":"14",
+   "FIELD6":"155.224"
+ }]
